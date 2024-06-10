@@ -1,0 +1,191 @@
+{
+  "Basophill percentage": {
+    "field_id": "30220-1.0",
+    "acquisition_route": "30224-1.0",
+    "acquisition_time": "30222-1.0",
+    "device_id": "30223-1.0",
+    "freeze_thaw_cycles": "30221-1.0"
+  },
+  "Eosinophill percentage": {
+    "field_id": "30210-1.0",
+    "acquisition_route": "30214-1.0",
+    "acquisition_time": "30212-1.0",
+    "device_id": "30213-1.0",
+    "freeze_thaw_cycles": "30211-1.0"
+  },
+  "Haematocrit percentage": {
+    "field_id": "30030-1.0",
+    "acquisition_route": "30034-1.0",
+    "acquisition_time": "30032-1.0",
+    "device_id": "30033-1.0",
+    "freeze_thaw_cycles": "30031-1.0"
+  },
+  "Haemoglobin concentration": {
+    "field_id": "30020-1.0",
+    "acquisition_route": "30024-1.0",
+    "acquisition_time": "30022-1.0",
+    "device_id": "30023-1.0",
+    "freeze_thaw_cycles": "30021-1.0"
+  },
+  "High light scatter reticulocyte percentage": {
+    "field_id": "30290-1.0",
+    "acquisition_route": "30294-1.0",
+    "acquisition_time": "30292-1.0",
+    "device_id": "30293-1.0",
+    "freeze_thaw_cycles": "30291-1.0"
+  },
+  "Immature reticulocyte fraction": {
+    "field_id": "30280-1.0",
+    "acquisition_route": "30284-1.0",
+    "acquisition_time": "30282-1.0",
+    "device_id": "30283-1.0",
+    "freeze_thaw_cycles": "30281-1.0"
+  },
+  "Lymphocyte percentage": {
+    "field_id": "30180-1.0",
+    "acquisition_route": "30184-1.0",
+    "acquisition_time": "30182-1.0",
+    "device_id": "30183-1.0",
+    "freeze_thaw_cycles": "30181-1.0"
+  },
+  "Mean corpuscular haemoglobin": {
+    "field_id": "30050-1.0",
+    "acquisition_route": "30054-1.0",
+    "acquisition_time": "30052-1.0",
+    "device_id": "30053-1.0",
+    "freeze_thaw_cycles": "30051-1.0"
+  },
+  "Mean corpuscular haemoglobin concentration": {
+    "field_id": "30060-1.0",
+    "acquisition_route": "30064-1.0",
+    "acquisition_time": "30062-1.0",
+    "device_id": "30063-1.0",
+    "freeze_thaw_cycles": "30061-1.0"
+  },
+  "Mean corpuscular volume": {
+    "field_id": "30040-1.0",
+    "acquisition_route": "30044-1.0",
+    "acquisition_time": "30042-1.0",
+    "device_id": "30043-1.0",
+    "freeze_thaw_cycles": "30041-1.0"
+  },
+  "Mean platelet (thrombocyte) volume": {
+    "field_id": "30100-1.0",
+    "acquisition_route": "30104-1.0",
+    "acquisition_time": "30102-1.0",
+    "device_id": "30103-1.0",
+    "freeze_thaw_cycles": "30101-1.0"
+  },
+  "Mean reticulocyte volume": {
+    "field_id": "30260-1.0",
+    "acquisition_route": "30264-1.0",
+    "acquisition_time": "30262-1.0",
+    "device_id": "30263-1.0",
+    "freeze_thaw_cycles": "30261-1.0"
+  },
+  "Mean sphered cell volume": {
+    "field_id": "30270-1.0",
+    "acquisition_route": "30274-1.0",
+    "acquisition_time": "30272-1.0",
+    "device_id": "30273-1.0",
+    "freeze_thaw_cycles": "30271-1.0"
+  },
+  "Monocyte count": {
+    "field_id": "30130-1.0",
+    "acquisition_route": "30134-1.0",
+    "acquisition_time": "30132-1.0",
+    "device_id": "30133-1.0",
+    "freeze_thaw_cycles": "30131-1.0"
+  },
+  "Monocyte percentage": {
+    "field_id": "30190-1.0",
+    "acquisition_route": "30194-1.0",
+    "acquisition_time": "30192-1.0",
+    "device_id": "30193-1.0",
+    "freeze_thaw_cycles": "30191-1.0"
+  },
+  "Neutrophill count": {
+    "field_id": "30140-1.0",
+    "acquisition_route": "30144-1.0",
+    "acquisition_time": "30142-1.0",
+    "device_id": "30143-1.0",
+    "freeze_thaw_cycles": "30141-1.0"
+  },
+  "Neutrophill percentage": {
+    "field_id": "30200-1.0",
+    "acquisition_route": "30204-1.0",
+    "acquisition_time": "30202-1.0",
+    "device_id": "30203-1.0",
+    "freeze_thaw_cycles": "30201-1.0"
+  },
+  "Nucleated red blood cell count": {
+    "field_id": "30170-1.0",
+    "acquisition_route": "30174-1.0",
+    "acquisition_time": "30172-1.0",
+    "device_id": "30173-1.0",
+    "freeze_thaw_cycles": "30171-1.0"
+  },
+  "Nucleated red blood cell percentage": {
+    "field_id": "30230-1.0",
+    "acquisition_route": "30234-1.0",
+    "acquisition_time": "30232-1.0",
+    "device_id": "30233-1.0",
+    "freeze_thaw_cycles": "30231-1.0"
+  },
+  "Platelet count": {
+    "field_id": "30080-1.0",
+    "acquisition_route": "30084-1.0",
+    "acquisition_time": "30082-1.0",
+    "device_id": "30083-1.0",
+    "freeze_thaw_cycles": "30081-1.0"
+  },
+  "Platelet crit": {
+    "field_id": "30090-1.0",
+    "acquisition_route": "30094-1.0",
+    "acquisition_time": "30092-1.0",
+    "device_id": "30093-1.0",
+    "freeze_thaw_cycles": "30091-1.0"
+  },
+  "Platelet distribution width": {
+    "field_id": "30110-1.0",
+    "acquisition_route": "30114-1.0",
+    "acquisition_time": "30112-1.0",
+    "device_id": "30113-1.0",
+    "freeze_thaw_cycles": "30111-1.0"
+  },
+  "Red blood cell (erythrocyte) count": {
+    "field_id": "30010-1.0",
+    "acquisition_route": "30014-1.0",
+    "acquisition_time": "30012-1.0",
+    "device_id": "30013-1.0",
+    "freeze_thaw_cycles": "30011-1.0"
+  },
+  "Red blood cell (erythrocyte) distribution width": {
+    "field_id": "30070-1.0",
+    "acquisition_route": "30074-1.0",
+    "acquisition_time": "30072-1.0",
+    "device_id": "30073-1.0",
+    "freeze_thaw_cycles": "30071-1.0"
+  },
+  "Reticulocyte count": {
+    "field_id": "30250-1.0",
+    "acquisition_route": "30254-1.0",
+    "acquisition_time": "30252-1.0",
+    "device_id": "30253-1.0",
+    "freeze_thaw_cycles": "30251-1.0"
+  },
+  "Reticulocyte percentage": {
+    "field_id": "30240-1.0",
+    "acquisition_route": "30244-1.0",
+    "acquisition_time": "30242-1.0",
+    "device_id": "30243-1.0",
+    "freeze_thaw_cycles": "30241-1.0"
+  },
+  "White blood cell (leukocyte) count": {
+    "field_id": "30000-1.0",
+    "acquisition_route": "30004-1.0",
+    "acquisition_time": "30002-1.0",
+    "device_id": "30003-1.0",
+    "freeze_thaw_cycles": "30001-1.0"
+  }
+}

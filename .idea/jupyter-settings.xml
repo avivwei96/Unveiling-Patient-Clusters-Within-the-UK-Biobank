@@ -7,7 +7,7 @@
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
-              <option name="sdkName" value="" />
+              <option name="sdkName" value="Remote Python 3.10.7 (sftp://avivwe@bio.mta.ac.il:22/home/avivwe@mta.ac.il/.virtualenvs/final_project/bin/python)" />
             </JupyterConnectionParameters>
           </value>
         </entry>

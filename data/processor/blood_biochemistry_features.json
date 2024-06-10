@@ -1,0 +1,273 @@
+{
+  "Alanine aminotransferase": {
+    "field_id": "30620-1.0",
+    "aliquot": "30622-1.0",
+    "assay_date": "30621-1.0",
+    "correction_level": "30623-1.0",
+    "correction_reason": "30624-1.0",
+    "missing_reason": "30625-1.0",
+    "reportability": "30626-1.0"
+  },
+  "Albumin": {
+    "field_id": "30600-1.0",
+    "aliquot": "30602-1.0",
+    "assay_date": "30601-1.0",
+    "correction_level": "30603-1.0",
+    "correction_reason": "30604-1.0",
+    "missing_reason": "30605-1.0",
+    "reportability": "30606-1.0"
+  },
+  "Alkaline phosphatase": {
+    "field_id": "30610-1.0",
+    "aliquot": "30612-1.0",
+    "assay_date": "30611-1.0",
+    "correction_level": "30613-1.0",
+    "correction_reason": "30614-1.0",
+    "missing_reason": "30615-1.0",
+    "reportability": "30616-1.0"
+  },
+  "Apolipoprotein A": {
+    "field_id": "30630-1.0",
+    "aliquot": "30632-1.0",
+    "assay_date": "30631-1.0",
+    "correction_level": "30633-1.0",
+    "correction_reason": "30634-1.0",
+    "missing_reason": "30635-1.0",
+    "reportability": "30636-1.0"
+  },
+  "Apolipoprotein B": {
+    "field_id": "30640-1.0",
+    "aliquot": "30642-1.0",
+    "assay_date": "30641-1.0",
+    "correction_level": "30643-1.0",
+    "correction_reason": "30644-1.0",
+    "missing_reason": "30645-1.0",
+    "reportability": "30646-1.0"
+  },
+  "Aspartate aminotransferase": {
+    "field_id": "30650-1.0",
+    "aliquot": "30652-1.0",
+    "assay_date": "30651-1.0",
+    "correction_level": "30653-1.0",
+    "correction_reason": "30654-1.0",
+    "missing_reason": "30655-1.0",
+    "reportability": "30656-1.0"
+  },
+  "C-reactive protein": {
+    "field_id": "30710-1.0",
+    "aliquot": "30712-1.0",
+    "assay_date": "30711-1.0",
+    "correction_level": "30713-1.0",
+    "correction_reason": "30714-1.0",
+    "missing_reason": "30715-1.0",
+    "reportability": "30716-1.0"
+  },
+  "Calcium": {
+    "field_id": "30680-1.0",
+    "aliquot": "30682-1.0",
+    "assay_date": "30681-1.0",
+    "correction_level": "30683-1.0",
+    "correction_reason": "30684-1.0",
+    "missing_reason": "30685-1.0",
+    "reportability": "30686-1.0"
+  },
+  "Cholesterol": {
+    "field_id": "30690-1.0",
+    "aliquot": "30692-1.0",
+    "assay_date": "30691-1.0",
+    "correction_level": "30693-1.0",
+    "correction_reason": "30694-1.0",
+    "missing_reason": "30695-1.0",
+    "reportability": "30696-1.0"
+  },
+  "Creatinine": {
+    "field_id": "30700-1.0",
+    "aliquot": "30702-1.0",
+    "assay_date": "30701-1.0",
+    "correction_level": "30703-1.0",
+    "correction_reason": "30704-1.0",
+    "missing_reason": "30705-1.0",
+    "reportability": "30706-1.0"
+  },
+  "Cystatin C": {
+    "field_id": "30720-1.0",
+    "aliquot": "30722-1.0",
+    "assay_date": "30721-1.0",
+    "correction_level": "30723-1.0",
+    "correction_reason": "30724-1.0",
+    "missing_reason": "30725-1.0",
+    "reportability": "30726-1.0"
+  },
+  "Direct bilirubin": {
+    "field_id": "30660-1.0",
+    "aliquot": "30662-1.0",
+    "assay_date": "30661-1.0",
+    "correction_level": "30663-1.0",
+    "correction_reason": "30664-1.0",
+    "missing_reason": "30665-1.0",
+    "reportability": "30666-1.0"
+  },
+  "Gamma glutamyltransferase": {
+    "field_id": "30730-1.0",
+    "aliquot": "30732-1.0",
+    "assay_date": "30731-1.0",
+    "correction_level": "30733-1.0",
+    "correction_reason": "30734-1.0",
+    "missing_reason": "30735-1.0",
+    "reportability": "30736-1.0"
+  },
+  "Glucose": {
+    "field_id": "30740-1.0",
+    "aliquot": "30742-1.0",
+    "assay_date": "30741-1.0",
+    "correction_level": "30743-1.0",
+    "correction_reason": "30744-1.0",
+    "missing_reason": "30745-1.0",
+    "reportability": "30746-1.0"
+  },
+  "Glycated haemoglobin (HbA1c)": {
+    "field_id": "30750-1.0",
+    "assay_date": "30751-1.0",
+    "correction_level": "30753-1.0",
+    "correction_reason": "30754-1.0",
+    "missing_reason": "30755-1.0",
+    "reportability": "30756-1.0"
+  },
+  "HDL cholesterol": {
+    "field_id": "30760-1.0",
+    "aliquot": "30762-1.0",
+    "assay_date": "30761-1.0",
+    "correction_level": "30763-1.0",
+    "correction_reason": "30764-1.0",
+    "missing_reason": "30765-1.0",
+    "reportability": "30766-1.0"
+  },
+  "IGF-1": {
+    "field_id": "30770-1.0",
+    "aliquot": "30772-1.0",
+    "assay_date": "30771-1.0",
+    "correction_level": "30773-1.0",
+    "correction_reason": "30774-1.0",
+    "missing_reason": "30775-1.0",
+    "reportability": "30776-1.0"
+  },
+  "LDL direct": {
+    "field_id": "30780-1.0",
+    "aliquot": "30782-1.0",
+    "assay_date": "30781-1.0",
+    "correction_level": "30783-1.0",
+    "correction_reason": "30784-1.0",
+    "missing_reason": "30785-1.0",
+    "reportability": "30786-1.0"
+  },
+  "Lipoprotein A": {
+    "field_id": "30790-1.0",
+    "aliquot": "30792-1.0",
+    "assay_date": "30791-1.0",
+    "correction_level": "30793-1.0",
+    "correction_reason": "30794-1.0",
+    "missing_reason": "30795-1.0",
+    "reportability": "30796-1.0"
+  },
+  "Oestradiol": {
+    "field_id": "30800-1.0",
+    "aliquot": "30802-1.0",
+    "assay_date": "30801-1.0",
+    "correction_level": "30803-1.0",
+    "correction_reason": "30804-1.0",
+    "missing_reason": "30805-1.0",
+    "reportability": "30806-1.0"
+  },
+  "Phosphate": {
+    "field_id": "30810-1.0",
+    "aliquot": "30812-1.0",
+    "assay_date": "30811-1.0",
+    "correction_level": "30813-1.0",
+    "correction_reason": "30814-1.0",
+    "missing_reason": "30815-1.0",
+    "reportability": "30816-1.0"
+  },
+  "Rheumatoid factor": {
+    "field_id": "30820-1.0",
+    "aliquot": "30822-1.0",
+    "assay_date": "30821-1.0",
+    "correction_level": "30823-1.0",
+    "correction_reason": "30824-1.0",
+    "missing_reason": "30825-1.0",
+    "reportability": "30826-1.0"
+  },
+  "SHBG": {
+    "field_id": "30830-1.0",
+    "aliquot": "30832-1.0",
+    "assay_date": "30831-1.0",
+    "correction_level": "30833-1.0",
+    "correction_reason": "30834-1.0",
+    "missing_reason": "30835-1.0",
+    "reportability": "30836-1.0"
+  },
+  "Testosterone": {
+    "field_id": "30850-1.0",
+    "aliquot": "30852-1.0",
+    "assay_date": "30851-1.0",
+    "correction_level": "30853-1.0",
+    "correction_reason": "30854-1.0",
+    "missing_reason": "30855-1.0",
+    "reportability": "30856-1.0"
+  },
+  "Total bilirubin": {
+    "field_id": "30840-1.0",
+    "aliquot": "30842-1.0",
+    "assay_date": "30841-1.0",
+    "correction_level": "30843-1.0",
+    "correction_reason": "30844-1.0",
+    "missing_reason": "30845-1.0",
+    "reportability": "30846-1.0"
+  },
+  "Total protein": {
+    "field_id": "30860-1.0",
+    "aliquot": "30862-1.0",
+    "assay_date": "30861-1.0",
+    "correction_level": "30863-1.0",
+    "correction_reason": "30864-1.0",
+    "missing_reason": "30865-1.0",
+    "reportability": "30866-1.0"
+  },
+  "Triglycerides": {
+    "field_id": "30870-1.0",
+    "aliquot": "30872-1.0",
+    "assay_date": "30871-1.0",
+    "correction_level": "30873-1.0",
+    "correction_reason": "30874-1.0",
+    "missing_reason": "30875-1.0",
+    "reportability": "30876-1.0"
+  },
+  "Urate": {
+    "field_id": "30880-1.0",
+    "aliquot": "30882-1.0",
+    "assay_date": "30881-1.0",
+    "correction_level": "30883-1.0",
+    "correction_reason": "30884-1.0",
+    "missing_reason": "30885-1.0",
+    "reportability": "30886-1.0"
+  },
+  "Urea": {
+    "field_id": "30670-1.0",
+    "aliquot": "30672-1.0",
+    "assay_date": "30671-1.0",
+    "correction_level": "30673-1.0",
+    "correction_reason": "30674-1.0",
+    "missing_reason": "30675-1.0",
+    "reportability": "30676-1.0"
+  },
+  "Vitamin D": {
+    "field_id": "30890-1.0",
+    "aliquot": "30892-1.0",
+    "assay_date": "30891-1.0",
+    "correction_level": "30893-1.0",
+    "correction_reason": "30894-1.0",
+    "missing_reason": "30895-1.0",
+    "reportability": "30896-1.0"
+  }
+  // Continue for the rest of the assays...
+}
+
